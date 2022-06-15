@@ -1,0 +1,43 @@
+.div 
+{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(243, 238, 230);
+}
+
+.div
+{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.div2
+{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    padding-top: 10px;
+}
+.span1 
+{
+    margin-left: 180px;
+}
+.div3
+{
+    border-bottom: 2px dotted black ;
+}
+.div4
+{
+    padding-top: 10px;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.div0
+{
+    border:  25px solid rgb(220, 220 , 220);
+}
